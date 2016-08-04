@@ -1,0 +1,52 @@
+{
+	"apps": [
+		{
+			"text": "OwnCloud",
+			"tip": "Manage server files",
+			"icon": "img/apps/owncloud.png",
+			"link": "https://westroppfamily.com/cloud"
+		},
+		{
+			"text": "NetData",
+			"tip": "View server health stats",
+			"icon": "img/apps/netdata.png",
+			"link": "https://westroppfamily.com/monitor"
+		},
+		{
+			"text": "transmission",
+			"tip": "Manage torrents",
+			"icon": "img/apps/transmission.png",
+			"link": "https://westroppfamily.com/transmission"
+		},
+		{
+			"text": "Plex",
+			"tip": "Movies and TV streaming",
+			"icon": "img/apps/plex.png",
+			"link": "https://westroppfamily.com/plex/index.html"
+		},
+		{
+			"text": "tt-rss",
+			"tip": "Feed reader",
+			"icon": "img/apps/ttrss.png",
+			"link": "https://westroppfamily.com/rss"
+		},
+		{
+			"text": "Syncthing",
+			"tip": "File Syncing",
+			"icon": "img/apps/syncthing.png",
+			"link": "https://westroppfamily.com/sync/"
+		},
+		{
+			"text": "subsonic (-)",
+			"tip": "Music streaming",
+			"icon": "img/apps/subsonic.png",
+			"link": "https://westroppfamily.com/cloud"
+		},
+		{
+			"text": "Wallabag (-)",
+			"tip": "Articles and web clippings",
+			"icon": "img/apps/wallabag.png",
+			"link": "https://westroppfamily.com/wallabag"
+		}
+	]
+}
