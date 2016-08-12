@@ -37,16 +37,28 @@
 			"link": "https://westroppfamily.com/sync/"
 		},
 		{
-			"text": "subsonic (-)",
+			"text": "subsonic",
 			"tip": "Music streaming",
 			"icon": "img/apps/subsonic.png",
-			"link": "https://westroppfamily.com/cloud"
+			"link": "https://westroppfamily.com/music/"
 		},
 		{
 			"text": "Wallabag (-)",
 			"tip": "Articles and web clippings",
 			"icon": "img/apps/wallabag.png",
 			"link": "https://westroppfamily.com/wallabag"
+		},
+		{
+			"text": "Dokuwiki (-)",
+			"tip": "Personal Wiki",
+			"icon": "img/apps/dokuwiki.png",
+			"link": "https://westroppfamily.com/"
+		},
+		{
+			"text": "GitLab (-)",
+			"tip": "Source Control",
+			"icon": "img/apps/gitlab.png",
+			"link": "https://westroppfamily.com/"
 		}
 	]
 }
