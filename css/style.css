@@ -190,4 +190,8 @@ a { -webkit-transition: all 0.15s ease; transition: all 0.15s ease; }
 	div.link-container a span {
 		font-size: 14px;
 	}
+	div.link-container a {
+	    max-width: 90px;
+	    min-width: 50px;
+	}
 }
