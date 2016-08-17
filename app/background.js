@@ -13,8 +13,8 @@ m.views.Background = Backbone.View.extend({
 
         $('#background').css('background-image',$('#background').find('li').css('background-image'));
 
-        $('<img/>').attr('src', 'https://source.unsplash.com/category/nature').load(function() {
-            that.$el[order]('#' + that.options.region).css('background-image','url(https://source.unsplash.com/category/nature)').css('opacity','0').fadeTo(200, 1);
+        $('<img/>').attr('src', 'https://source.unsplash.com/category/nature/1600x900').load(function() {
+            that.$el[order]('#' + that.options.region).css('background-image','url(https://source.unsplash.com/category/nature/1600x900)').css('opacity','0').fadeTo(200, 1);
             $(this).remove();
         });
 
