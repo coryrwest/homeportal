@@ -7,6 +7,12 @@
 			"link": "https://westroppfamily.com/monitor"
 		},
 		{
+			"text": "Plex (local)",
+			"tip": "Movies and TV streaming",
+			"icon": "img/apps/plex.png",
+			"link": "https://westroppfamily.com/plex/index.html"
+		},
+		{
 			"text": "transmission",
 			"tip": "Manage torrents",
 			"icon": "img/apps/transmission.png",
@@ -53,12 +59,6 @@
 			"tip": "Manage server files",
 			"icon": "img/apps/owncloud.png",
 			"link": "https://westroppfamily.com/cloud"
-		},
-		{
-			"text": "Plex (local)",
-			"tip": "Movies and TV streaming",
-			"icon": "img/apps/plex.png",
-			"link": "https://westroppfamily.com/plex/index.html"
 		}
 	]
 }
