@@ -47,7 +47,7 @@
 			"tip": "Source Control",
 			"icon": "img/apps/gitlab.png",
 			"link": "https://westroppfamily.com/"
-		}
+		},
 		{
 			"text": "OwnCloud (-)",
 			"tip": "Manage server files",
@@ -59,6 +59,6 @@
 			"tip": "Movies and TV streaming",
 			"icon": "img/apps/plex.png",
 			"link": "https://westroppfamily.com/plex/index.html"
-		},
+		}
 	]
 }
