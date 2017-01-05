@@ -43,13 +43,13 @@
 			"link": "https://westroppfamily.com/wallabag/"
 		},
 		{
-			"text": "Dokuwiki (-)",
-			"tip": "Personal Wiki",
-			"icon": "img/apps/dokuwiki.png",
-			"link": "https://westroppfamily.com/"
+			"text": "Mirrors",
+			"tip": "Website mirrors",
+			"icon": "img/apps/mirrors.png",
+			"link": "https://westroppfamily.com/mirrors"
 		},
 		{
-			"text": "GitLab (-)",
+			"text": "Gitlab",
 			"tip": "Source Control",
 			"icon": "img/apps/gitlab.png",
 			"link": "https://westroppfamily.com/"
