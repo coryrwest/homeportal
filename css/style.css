@@ -64,8 +64,10 @@ a:hover { opacity: 1; }
 
 div#apps {
 	display: flex;
+    align-items: center;
     justify-content: center;
-	flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 /* Apps */
@@ -81,7 +83,7 @@ div.link-container {
     flex-wrap: nowrap;
     justify-content: center;
     margin: 0.5rem;
-    flex: 1 2 100px;
+    width: 130px;
 }
 
 div.link-container a {
