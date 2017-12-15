@@ -31,16 +31,16 @@
                 "link": "https://sync.westroppfamily.com"
         },
         {
-                "text": "cacti",
-                "tip": "Router monitoring",
+                "text": "libreNMS",
+                "tip": "Network monitoring",
                 "icon": "img/logo-full-white.png",
-                "link": "https://cacti.westroppfamily.com"
+                "link": "https://net.westroppfamily.com"
         },
         {
                 "text": "Wallabag",
                 "tip": "Articles and web clippings",
                 "icon": "img/apps/wallabag.png",
-                "link": "https://wallabag.westroppfamily.com/"
+                "link": "https://read.westroppfamily.com/"
         },
         {
                 "text": "Mirrors",
@@ -64,7 +64,7 @@
                 "text": "postgres",
                 "tip": "postgres Control",
                 "icon": "img/logo-full-white.png",
-                "link": "https://pg.westroppfamily.com/"
+                "link": "https://pg.westroppfamily.com/teampostgresql/"
         },
         {
                 "text": "OwnCloud (-)",
