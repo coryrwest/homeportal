@@ -10,7 +10,7 @@
                 "text": "Plex (local)",
                 "tip": "Movies and TV streaming",
                 "icon": "img/apps/plex.png",
-                "link": "https://westroppfamily.com/plex/index.html"
+                "link": "https://plex.westroppfamily.com/"
         },
         {
                 "text": "transmission",
@@ -65,18 +65,6 @@
                 "tip": "postgres Control",
                 "icon": "img/logo-full-white.png",
                 "link": "https://pg.westroppfamily.com/teampostgresql/"
-        },
-        {
-                "text": "OwnCloud (-)",
-                "tip": "Manage server files",
-                "icon": "img/apps/owncloud.png",
-                "link": "https://westroppfamily.com/cloud"
-        },
-        {
-                "text": "tt-rss (-)",
-                "tip": "Feed reader",
-                "icon": "img/apps/ttrss.png",
-                "link": "https://westroppfamily.com/rss"
         }
 	]
 }
