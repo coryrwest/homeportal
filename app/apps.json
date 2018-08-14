@@ -1,70 +1,82 @@
 {
-    "apps": [
-        {
-                "text": "NetData",
-                "tip": "View server health stats",
-                "icon": "img/apps/netdata.png",
-                "link": "https://monitor.westroppfamily.com"
-        },
-        {
-                "text": "Plex (local)",
-                "tip": "Movies and TV streaming",
-                "icon": "img/apps/plex.png",
-                "link": "https://plex.westroppfamily.com/"
-        },
-        {
-                "text": "transmission",
-                "tip": "Manage torrents",
-                "icon": "img/apps/transmission.png",
-                "link": "https://transmission.westroppfamily.com/web/"
-        },
-        {
-                "text": "subsonic",
-                "tip": "Music streaming",
-                "icon": "img/apps/subsonic.png",
-                "link": "https://music.westroppfamily.com"
-        },
-        {
-                "text": "Syncthing",
-                "tip": "File Syncing",
-                "icon": "img/apps/syncthing.png",
-                "link": "https://sync.westroppfamily.com"
-        },
-        {
-                "text": "libreNMS",
-                "tip": "Network monitoring",
-                "icon": "img/logo-full-white.png",
-                "link": "https://net.westroppfamily.com"
-        },
-        {
-                "text": "Wallabag",
-                "tip": "Articles and web clippings",
-                "icon": "img/apps/wallabag.png",
-                "link": "https://read.westroppfamily.com/"
-        },
-        {
-                "text": "Mirrors",
-                "tip": "Website mirrors",
-                "icon": "img/apps/mirrors.png",
-                "link": "https://mirrors.westroppfamily.com"
-        },
-        {
-                "text": "Gitlab",
-                "tip": "Source Control",
-                "icon": "img/apps/gitlab.png",
-                "link": "https://git.westroppfamily.com/"
-        },
-        {
-                "text": "urBackup",
-                "tip": "Machine backups",
-                "icon": "img/logo-full-white.png",
-                "link": "https://backup.westroppfamily.com"
-        },
-        {
-                "text": "postgres",
-                "tip": "postgres Control",
-                "icon": "img/logo-full-white.png",
-                "link": "https://pg.westroppfamily.com/teampostgresql/"
-        }
-	]
+        "apps": [
+                {
+                        "text": "NetData",
+                        "tip": "View server health stats",
+                        "icon": "img/apps/netdata.png",
+                        "link": "https://monitor.westroppfamily.com"
+                },
+                {
+                        "text": "Plex (local)",
+                        "tip": "Movies and TV streaming",
+                        "icon": "img/apps/plex.png",
+                        "link": "https://plex.westroppfamily.com/"
+                },
+                {
+                        "text": "transmission",
+                        "tip": "Manage torrents",
+                        "icon": "img/apps/transmission.png",
+                        "link": "https://transmission.westroppfamily.com/web/"
+                },
+                {
+                        "text": "subsonic",
+                        "tip": "Music streaming",
+                        "icon": "img/apps/subsonic.png",
+                        "link": "https://music.westroppfamily.com"
+                },
+                {
+                        "text": "Syncthing",
+                        "tip": "File Syncing",
+                        "icon": "img/apps/syncthing.png",
+                        "link": "https://sync.westroppfamily.com"
+                },
+                {
+                        "text": "libreNMS",
+                        "tip": "Network monitoring",
+                        "icon": "img/logo-full-white.png",
+                        "link": "https://net.westroppfamily.com"
+                },
+                {
+                        "text": "Wallabag",
+                        "tip": "Articles and web clippings",
+                        "icon": "img/apps/wallabag.png",
+                        "link": "https://read.westroppfamily.com/"
+                },
+                {
+                        "text": "Mirrors",
+                        "tip": "Website mirrors",
+                        "icon": "img/apps/mirrors.png",
+                        "link": "https://mirrors.westroppfamily.com"
+                },
+                {
+                        "text": "Gitlab",
+                        "tip": "Source Control",
+                        "icon": "img/apps/gitlab.png",
+                        "link": "https://git.westroppfamily.com/"
+                },
+                {
+                        "text": "urBackup",
+                        "tip": "Machine backups",
+                        "icon": "img/logo-full-white.png",
+                        "link": "https://backup.westroppfamily.com"
+                },
+                {
+                        "text": "postgres",
+                        "tip": "postgres Control",
+                        "icon": "img/logo-full-white.png",
+                        "link": "https://pg.westroppfamily.com/teampostgresql/"
+                },
+                {
+                        "text": "grafana",
+                        "tip": "Dashboard",
+                        "icon": "img/logo-full-white.png",
+                        "link": "https://dashboard.westroppfamily.com/"
+                },
+                {
+                        "text": "graylog",
+                        "tip": "Log aggregation",
+                        "icon": "img/logo-full-white.png",
+                        "link": "https://logs.westroppfamily.com/"
+                }
+        ]
 }
