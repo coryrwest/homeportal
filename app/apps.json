@@ -33,7 +33,7 @@
                 {
                         "text": "libreNMS",
                         "tip": "Network monitoring",
-                        "icon": "img/logo-full-white.png",
+                        "icon": "img/apps/librenms.png",
                         "link": "https://net.westroppfamily.com"
                 },
                 {
@@ -63,19 +63,19 @@
                 {
                         "text": "postgres",
                         "tip": "postgres Control",
-                        "icon": "img/logo-full-white.png",
+                        "icon": "img/apps/postgres.png",
                         "link": "https://pg.westroppfamily.com/teampostgresql/"
                 },
                 {
                         "text": "grafana",
                         "tip": "Dashboard",
-                        "icon": "img/logo-full-white.png",
+                        "icon": "img/apps/grafana.png",
                         "link": "https://dashboard.westroppfamily.com/"
                 },
                 {
                         "text": "graylog",
                         "tip": "Log aggregation",
-                        "icon": "img/logo-full-white.png",
+                        "icon": "img/apps/graylog.png",
                         "link": "https://logs.westroppfamily.com/"
                 }
         ]
